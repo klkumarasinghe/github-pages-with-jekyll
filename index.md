@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome!"
 ---
 
-Welcome! My name is Kinolee Kumarasinghe. 
+Hi! My name is Kinolee Kumarasinghe. This is the perfect place to learn a little about me. 
